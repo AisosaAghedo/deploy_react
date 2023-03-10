@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/deploy_react/static/css/main.886299e4.css",
+    "main.js": "/deploy_react/static/js/main.0136e8d6.js",
+    "static/media/hbnblogo.jpg": "/deploy_react/static/media/hbnblogo.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/deploy_react/index.html",
+    "main.886299e4.css.map": "/deploy_react/static/css/main.886299e4.css.map",
+    "main.0136e8d6.js.map": "/deploy_react/static/js/main.0136e8d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.886299e4.css",
+    "static/js/main.0136e8d6.js"
+  ]
+}
